@@ -1,6 +1,6 @@
 # DataAnalyst
 Projects in Data Analysis
-## [01 Preprocessingи](https://github.com/housecarl73/DataAnalyst/tree/master/01%20preprocessing "Заголовок ссылки")
+## [01 Preprocessing](https://github.com/housecarl73/DataAnalyst/tree/master/01%20preprocessing)
 Описание проекта
 Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.
 Результаты исследования будут учтены при построении модели кредитного скоринга.

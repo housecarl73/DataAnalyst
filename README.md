@@ -80,3 +80,10 @@ Projects in Data Analysis
 Выделить группы пользователей, поведение которых различаются по метрикам. Построить дашборд.
 
 Стек: pandas, datetime, numpy, math, matplotlib, scipy, pyplot, seaborn, sklearn, Tableau.
+
+
+## [QA](https://github.com/housecarl73/DataAnalyst/tree/master/QA)
+Описание проекта:
+Выбрать и проанализировать вакансии, на которые студенты QA-факультета могут откликнуться и получить приглашение на интервью. Оценить объём рынка вакансий для начинающих тестировщиков.
+
+Стек: pandas, matplotlib, numpy, pyplot, seaborn, string, nltk, BeautifulSoup.
